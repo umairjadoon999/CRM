@@ -50,7 +50,6 @@ class SugarWebServiceUtilv4 extends SugarWebServiceUtilv3_1
         if (empty($moduleName)) {
             return $results;
         }
-        echo 'test';
 
         $view = strtolower($view);
         switch (strtolower($type)) {
