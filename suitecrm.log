@@ -1,0 +1,6 @@
+Thu Nov 19 07:36:13 2020 [14664][1][FATAL] SugarBean::populateDefaultValues $field_defs should be an array
+Fri Nov 20 05:46:52 2020 [12316][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Nov 20 05:46:54 2020 [12316][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Fri Nov 20 05:46:54 2020 [12316][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
+Fri Nov 20 05:46:59 2020 [12316][-none-][FATAL] SECURITY: User authentication for admin failed
+Fri Nov 20 05:46:59 2020 [12316][-none-][FATAL] FAILED LOGIN:attempts[1], ip[::1], username[admin]
