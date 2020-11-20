@@ -356,7 +356,7 @@ class SugarWebServiceImplv4 extends SugarWebServiceImplv3_1
 
         $GLOBALS['log']->info('End: SugarWebServiceImpl->get_entry_list - SUCCESS');
         return array('result_count' => count($output_list), 'total_count' => $totalRecordCount, 'next_offset' => $next_offset, 'entry_list' => $output_list, 'relationship_list' => $returnRelationshipList);
-    } // fn
+    }
 
     /**
      * Retrieve the layout metadata for a given module given a specific type and view.
